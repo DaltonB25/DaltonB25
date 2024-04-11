@@ -1,8 +1,8 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilavila&label=Profile%20views&color=296350&style=flat" alt="Celiel Castillo" /> </p>-->
-<h1 align="center">- 👋 Hi, my name is Celiel Castillo</h1>
-<h3 align="center"> <a href="mailto:celiel13@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<h1 align="center">- 👋 Hi, my name is Dalton Baker</h1>
+<h3 align="center"> <a href="mailto:daltongetbaker@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='#'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
-<h1 align="center">Some dreams can seem too big for small minds!</h1>
+<h1 align="center"></h1>
 # Welcome to my Github!
 <a><img height="165px" img align="center" alt="Celiel Castillo Stats" src="https://github-readme-stats.vercel.app/api?username=celicasti9&show_icons=true&theme=chartreuse-dark" />
 </a><a><img height="165px" img align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celicasti9&layout=compact&hide=perl&theme=chartreuse-dark" /></a>
@@ -19,13 +19,8 @@ Some tools & languages I manage are:
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 @@ -39,8 +43,8 @@ Some tools & languages I manage are:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celicasti9" alt="Celiel Castillo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daltonB25" alt="Dalton Baker" /></a> </p>
 
-
-- 👀 I’m interested in getting a position as a Junior Developer and eventually becoming a Blockchain Developer. 
-- 🌱 I’m currently learning C, JavaScript and Solidity.
-- 👀 I’m interested in getting a position as a Junior Developer. 
-- 🌱 I’m currently learning Clarity and Solidity.
 
 
 <!---
