@@ -3,4 +3,4 @@
 <a href='#'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 <h1 align="center"></h1>
 # Welcome to my Github!
-[![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonB25)](https://github.com/DaltonB25/github-readme-stats)
+[![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonB25)](https://github.com/anuraghazra/github-readme-stats)
